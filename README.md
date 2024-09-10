@@ -3,6 +3,6 @@
 <p> ML Algorithm used is Multinomial Naive Bayes</p>
 <br>
 <p>Accuracy : 0.98....</p>
-<p>Precision Score : 0.97...</p>
+<p>Precision Score : 0.99...</p>
 
 <a herf="Linkdln">Linkdln</a>
